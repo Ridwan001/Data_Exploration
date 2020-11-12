@@ -1,4 +1,4 @@
-# Data_Explorattion
+# Data_Exploration
 Practical Data Analysis with Marketing dataset.
 
 In this project, we will perform data exploration in order to gain insight into a direct marketing dataset.
